@@ -1,0 +1,62 @@
+﻿@page "/Admin/AllReservations"
+@inject ICircusService CircusService;
+@inject IReservationService ReservationService;
+@inject NavigationManager navMgr;
+@using Contracts;
+@using DTO;
+
+
+<h3>All Reservations</h3>
+<CascadingAuthenticationState>
+    <AuthorizeView Policy="Admin">
+        <NotAuthorized>
+            <p> Guests dont have permission to update Circus Shows. Contact us if you have any suggestions</p>
+        </NotAuthorized>
+        <Authorized>
+            @if (_allReservations.Any())
+            {
+                <table>
+                    <thead>
+                        <tr>
+                            <td>Id</td>
+                            <td>Title</td>
+                            <td>Location</td>
+                            <td>ReservedBy</td>
+                            <td>Delete</td>
+                        </tr>
+                    </thead>
+                </table>
+                foreach (ReservationDTO reservation in _allReservations)
+                {
+                    <tr>
+                        <td>@reservation.Id</td>
+                        <td>@reservation.circusShowDto.title</td>
+                        <td>@string.Join(',', reservation.circusShowDto.Location)</td>
+                        <td>@reservation.ReservedBy.FirstName @reservation.ReservedBy.LastName</td>
+                        <td><button onclick="@(() => DeleteReservation(reservation.Id))">Delete</button></td>
+                    </tr>
+                }
+            } else
+            {
+                <p>No Reservation Found</p>    
+            }
+        </Authorized>
+    </AuthorizeView>
+</CascadingAuthenticationState>
+
+
+@code {
+    private string errorLabel = string.Empty;
+    private bool _showModal = false;
+    private List<ReservationDTO> _allReservations = new List<ReservationDTO>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _allReservations = await ReservationService.GetAllReservations();
+    }
+
+    private async void DeleteReservation(int id)
+    {
+        await ReservationService.DeleteReservationById(id);
+    }
+}

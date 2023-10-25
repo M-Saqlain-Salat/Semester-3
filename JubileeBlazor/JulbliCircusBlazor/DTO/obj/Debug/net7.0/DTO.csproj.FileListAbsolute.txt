@@ -1,0 +1,36 @@
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\Test\IdeaProjects\SEP3_VIA-Group8\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\Test\source\repos\JulbliCircusBlazor\DTO\obj\Debug\net7.0\ref\DTO.dll
